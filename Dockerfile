@@ -1,3 +1,2 @@
-FROM judge0/api:1.13.0
-
+FROM ghcr.io/judge0/api
 EXPOSE 3000
